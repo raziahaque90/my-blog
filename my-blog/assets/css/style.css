@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.header-top{
+	height: 100px;
+
+}
+.my-slider{
+	height: 350px;
+}
+.my-slider img{
+	width: 100%;
+	height: 350px;
+}
+.posts img{
+	height: 200px;
+	width: 100%;
+}
+.footer-top{
+	height: 200px;
+}
+.footer-bottom{
+	height: 30px;
+	background-color: black;
+}
+.main-menu ul li a{
+	color: gray;
+	font-weight: bold;
+}
+.main-menu ul li:hover a{
+	border-bottom: 3px solid tomato;
+}
